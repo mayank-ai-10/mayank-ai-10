@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Mayank 👋  <br> B.Tech Computer Science Student  <br> Interested in AI, Machine Learning & Deep Learning  <br> Working on Computer Vision & Digital Twin Projects  <br> Python | TensorFlow | PyTorch | OpenCV | SQL  <br> Passionate about building real-world intelligent systems
 
 
